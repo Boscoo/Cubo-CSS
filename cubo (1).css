@@ -1,0 +1,255 @@
+#divt0{
+    margin-left: 500px;
+    margin-top: 240px;
+    transform: rotateY(57deg)
+                rotateZ(-6deg)
+                rotateX(-15deg);
+    float: left;
+}
+#divt1{
+    margin-top: 250px;  
+    margin-left: -46px;
+    transform: rotateZ(10deg)
+                rotateX(10deg)
+                rotateY(25deg);
+    float: left;
+}
+#divt2{
+    float: left;
+    margin-top: 340px;
+    margin-left: -232px;
+    transform: rotateX(80deg)
+                rotateZ(44deg)
+                rotateY(4deg);
+}
+#div1{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+}
+#div2{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 0.5px solid black   ;
+    float: left;
+    margin-left: 2px;
+}
+#div3{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-left: 2px;
+}
+#div4{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 52px;
+    margin-left: -157px;
+}
+#div5{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 52px;
+    margin-left: -104px;
+}
+#div6{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 52px;
+    margin-left: -51px;
+}
+#div7{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 102px;
+    margin-left: -157px;
+}
+#div8{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 102px;
+    margin-left: -104px;
+}
+#div9{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 102px;
+    margin-left: -51px;
+}
+#div10{
+    background-color: white;
+    height: 49px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+}
+#div11{
+    background-color: white;
+    height: 49px;
+    width: 50px;
+    border: 0.5px solid black   ;
+    float: left;
+    margin-left: 2px;
+}
+#div12{
+    background-color: white;
+    height: 49px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-left: 2px;
+}
+#div13{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 50.5px;
+    margin-left: -157px;
+}
+#div14{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 50.5px;
+    margin-left: -104px;
+}
+#div15{
+    background-color: white;
+    height: 48px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 50.5px;
+    margin-left: -51px;
+}
+#div16{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 101px;
+    margin-left: -157px;
+}
+#div17{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 101px;
+    margin-left: -104px;
+}
+#div18{
+    background-color: white;
+    height: 47px;
+    width: 50px;
+    border: 0.5px solid black;
+    float: left;
+    margin-top: 101px;
+    margin-left: -51px;
+}
+#div19{
+    background-color: white;
+    height: 41px;
+    width: 57px;
+    border: 3px solid black;
+    float: left;
+}
+#div20{
+    background-color: white;
+    height: 44px;
+    width: 59px;
+    border: 3px solid black   ;
+    float: left;
+    margin-left: 2px;
+}
+#div21{
+    background-color: white;
+    height: 45px;
+    width: 54px;
+    border: 3px solid black;
+    float: left;
+    margin-left: 2px;
+}
+#div22{
+    background-color: white;
+    height: 48px;
+    width: 52px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 48px;
+    margin-left: -190px;
+}
+#div23{
+    background-color: white;
+    height: 48px;
+    width: 58px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 50.5px;
+    margin-left: -129px;
+}
+#div24{
+    background-color: white;
+    height: 48px;
+    width: 57px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 50.5px;
+    margin-left: -63px;
+}
+#div25{
+    background-color: white;
+    height: 20px;
+    width: 53px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 101px;
+    margin-left: -190px;
+}
+#div26{
+    background-color: white;
+    height: 19px;
+    width: 57px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 105px;
+    margin-left: -128px;
+}
+#div27{
+    background-color: white;
+    height: 20px;
+    width: 55px;
+    border: 3px solid black;
+    float: left;
+    margin-top: 105px;
+    margin-left: -62px;
+}
